@@ -25,6 +25,7 @@ permalink: /
 次の行
 
 [リンク](https://www.google.co.jp/)
+[リンク](www.github.com)
 
 **太字**
 
